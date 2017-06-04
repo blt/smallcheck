@@ -1,0 +1,10 @@
+[package]
+name = "smallcheck"
+version = "0.1.0"
+description = "An implementation of 'SmallCheck and Lazy SmallCheck' and 'Advances in Lazy SmallCheck'"
+authors = ["Brian L. Troutwine <brian@troutwine.us>"]
+keywords = ["testing", "exhaustive"]
+categories = ["development-tools::testing"]
+license = "MIT"
+
+[dependencies]
